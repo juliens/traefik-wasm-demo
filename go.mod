@@ -1,4 +1,4 @@
-module github.com/zetaab/traefik-wasm-demo
+module github.com/juliens/traefik-wasm-demo
 
 go 1.21
 
